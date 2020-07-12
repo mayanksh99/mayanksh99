@@ -9,7 +9,6 @@
 
 * 🌱 I’m currently learning Javascript
 * 🤔 I love to play with ReactJs
-* 👯 I’m looking for an Internship in ReactJs
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mayanksh99/) or [Twitter](https://twitter.com/mayanksh99)
 * 😄 Mr. Mak
 * ⚡ Nice is our okay
